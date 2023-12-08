@@ -1,0 +1,3 @@
+// Finance project in java
+
+1. Find total number of months included in datasheet
